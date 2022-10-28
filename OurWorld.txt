@@ -1,10 +1,12 @@
-Compiled by Steven Kelly, Peter Lowe [PL]
+git commit OurWorld.txtCompiled by Steven Kelly [SK], Peter Lowe [PL]
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
+---- Mexico [SK]
+Mexico City
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -12,7 +14,6 @@ Ooh la la!
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
-
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
