@@ -1,4 +1,6 @@
-git commit OurWorld.txtCompiled by Steven Kelly [SK], Peter Lowe [PL]
+
+Compiled by Steven Kelly, Harvey McNevin [HMN] Peter Lowe [PL]
+
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
