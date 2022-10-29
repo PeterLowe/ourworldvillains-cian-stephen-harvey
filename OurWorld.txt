@@ -1,13 +1,20 @@
+
 Compiled by Steven Kelly, Harvey McNevin [HMN] Peter Lowe [PL]
+
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
+<<<<<<< HEAD
 ---- Canada [HMN]
 Nice people
 
+=======
+---- Mexico [SK]
+Mexico City
+>>>>>>> master
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -18,10 +25,13 @@ not be confused with slovakia
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+<<<<<<< HEAD
 
 ---- Madagascar [HMN]
 I like to move it move it
 
+=======
+>>>>>>> master
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
