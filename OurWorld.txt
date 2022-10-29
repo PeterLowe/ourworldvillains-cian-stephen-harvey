@@ -7,6 +7,9 @@ Compiled by Steven Kelly, Harvey McNevin [HMN] Peter Lowe [PL]
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
+---- Venuzuela [HMN]
+Cool Flag
+
 <<<<<<< HEAD
 ---- Canada [HMN]
 Nice people
@@ -19,6 +22,9 @@ Mexico City
 ---- France [pl]
 Ooh la la! 
 
+-----Germany [HMN]
+They make great cars
+
 ---- Slovenia [HMN]
 not be confused with slovakia
 
@@ -26,6 +32,9 @@ not be confused with slovakia
 ----- Egypt [pl]
 Home of the Pyramids
 <<<<<<< HEAD
+
+----- Algeria [HMN]
+Largest country on the continent
 
 ---- Madagascar [HMN]
 I like to move it move it
@@ -38,6 +47,9 @@ Great Wall of China seen from space
 
 ---- Japan [HMN]
 anime central
+
+----- Mongolia [HMN]
+2nd Lowest population density in the world
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
@@ -45,3 +57,5 @@ the only thing more impossible than staying was leaving.
 
 ----- New Zealand [HMN]
 Polite Australians
+
+------ Papa New Guinea [HMN]
