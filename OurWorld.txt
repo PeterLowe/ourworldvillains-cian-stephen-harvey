@@ -10,6 +10,9 @@ Land of the free and the home of the brave.
 ---- Venuzuela [HMN]
 Cool Flag
 
+---- Colombia 
+Bogota, 
+
 <<<<<<< HEAD
 ---- Canada [HMN]
 Nice people
@@ -21,6 +24,12 @@ Mexico City
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+
+_____ Ukraine [HMN]
+Not having the best time at the moment
+
+---- Switzerland [HMN]
+skiing resorts, lakes, chocolate, and cheese.
 
 -----Germany [HMN]
 They make great cars
@@ -36,6 +45,9 @@ Home of the Pyramids
 ----- Algeria [HMN]
 Largest country on the continent
 
+---- Nigeria [HMN]
+Abuja, 175 million people
+
 ---- Madagascar [HMN]
 I like to move it move it
 
@@ -48,14 +60,30 @@ Great Wall of China seen from space
 ---- Japan [HMN]
 anime central
 
+---- Indonesia [HMN]
+Jakarta, 17,508 islands in total
+
+---- South Korea [HMN]
+Gangnam Style
+
 ----- Mongolia [HMN]
 2nd Lowest population density in the world
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
 
+---- Solomon-Islands [HMN]
+made of 900 small islands
+
 ----- New Zealand [HMN]
 Polite Australians
 
+
 ------ Papa New Guinea [HMN]
+3rd largest rainforest in the world
+
+------ Fiji [HMN]
+Made of over 300 isalnds
++-
