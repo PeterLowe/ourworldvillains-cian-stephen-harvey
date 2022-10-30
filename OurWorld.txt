@@ -7,15 +7,23 @@ Compiled by Steven Kelly, Harvey McNevin [HMN] Peter Lowe [PL]
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
----- Canada [SK]
-Canadian Skyline
+---- Venuzuela [HMN]
+Cool Flag
 
+<<<<<<< HEAD
+---- Canada [HMN]
+Nice people
+
+=======
+>>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
 ---- Mexico [SK]
 Mexico City
+>>>>>>> master
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
 
+<<<<<<< HEAD
 Greece [SK]
 Athens, Greece
 
@@ -33,11 +41,42 @@ Nairobi, Kenya
 
 ----- Morocco [SK]
 Chefchaouen, Morocco
+=======
+-----Germany [HMN]
+They make great cars
+
+---- Slovenia [HMN]
+not be confused with slovakia
+
++++++++++++++++++++++     Africa  ++++++++++++++++++++
+----- Egypt [pl]
+Home of the Pyramids
+<<<<<<< HEAD
+
+----- Algeria [HMN]
+Largest country on the continent
+
+---- Madagascar [HMN]
+I like to move it move it
+
+=======
+>>>>>>> master
+>>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
 
+---- Japan [HMN]
+anime central
+
+----- Mongolia [HMN]
+2nd Lowest population density in the world
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+
+----- New Zealand [HMN]
+Polite Australians
+
+------ Papa New Guinea [HMN]
