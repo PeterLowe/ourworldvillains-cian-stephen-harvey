@@ -16,9 +16,23 @@ Mexico City
 ---- France [pl]
 Ooh la la! 
 
+Greece [SK]
+Athens, Greece
+
+---- Portugal [SK]
+Faro, Portugal
+
+---- Austria [SK]
+Hallstatt, Austria
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+
+----- Kenya [SK]
+Nairobi, Kenya
+
+----- Morocco [SK]
+Chefchaouen, Morocco
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
