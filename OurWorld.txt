@@ -14,6 +14,15 @@ Cool Flag
 ---- Canada [HMN]
 Nice people
 
+<<<<<<< HEAD
+=======
+---- Brazil [SK]
+Big Jesus statue.
+
+---- Hawaii [SK]
+Aloha.
+
+>>>>>>> Steven
 =======
 >>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
 ---- Mexico [SK]
@@ -104,6 +113,9 @@ Great Wall of China seen from space
 ---- Japan [HMN]
 anime central
 
+---- Indonesia [SK]
+Dont't know much, but Bali is supposed to be a really nice place.
+
 ----- Mongolia [HMN]
 2nd Lowest population density in the world
 <<<<<<< HEAD
@@ -141,7 +153,16 @@ the only thing more impossible than staying was leaving.
 Polite Australians
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ------ Papa New Guinea [HMN]
 =======
+=======
+>>>>>>> Steven
 ------ Papa New Guinea [HMN]
+
+------ Australia [SK]
+Nope. 
+
+------ Tahiti [SK]
+I have a plan, Arthur.
 
