@@ -7,15 +7,29 @@ Compiled by Steven Kelly, Harvey McNevin [HMN] Peter Lowe [PL]
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
----- Canada [SK]
-Canadian Skyline
+---- Venuzuela [HMN]
+Cool Flag
 
+<<<<<<< HEAD
+---- Canada [HMN]
+Nice people
+
+---- Brazil [SK]
+Big Jesus statue.
+
+---- Hawaii [SK]
+Aloha.
+
+=======
+>>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
 ---- Mexico [SK]
 Mexico City
+>>>>>>> master
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
 
+<<<<<<< HEAD
 Greece [SK]
 Athens, Greece
 
@@ -53,8 +67,11 @@ Nairobi, Kenya
 
 ----- Morocco [SK]
 Chefchaouen, Morocco
+<<<<<<< HEAD
+=======
 <<<<<<< Updated upstream
 =======
+>>>>>>> Steven
 =======
 -----Germany [HMN]
 They make great cars
@@ -76,22 +93,37 @@ I like to move it move it
 =======
 >>>>>>> master
 >>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
+<<<<<<< HEAD
+=======
 
 >>>>>>> Stashed changes
+>>>>>>> Steven
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
 
+<<<<<<< HEAD
+=======
 <<<<<<< Updated upstream
 =======
+>>>>>>> Steven
 ---- Japan [HMN]
 anime central
 
+---- Indonesia [SK]
+Dont't know much, but Bali is supposed to be a really nice place.
+
 ----- Mongolia [HMN]
 2nd Lowest population density in the world
+<<<<<<< HEAD
+=======
 
 ----- Iraq [SK]
 Iraq. 
+<<<<<<< HEAD
+>>>>>>> Steven
++++++++++++++++++++ Rest of the World ++++++++++++++++
+=======
 
 ----- Pakistan [SK]
 Honestly, don't know much about Pakistan
@@ -104,14 +136,25 @@ Good food
 Kimchi
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
+>>>>>>> Steven
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+<<<<<<< HEAD
+=======
 <<<<<<< Updated upstream
 =======
+>>>>>>> Steven
 
 ----- New Zealand [HMN]
 Polite Australians
 
+<<<<<<< HEAD
 ------ Papa New Guinea [HMN]
+
+------ Australia [SK]
+Nope. 
+
+------ Tahiti [SK]
+I have a plan, Arthur.
 
