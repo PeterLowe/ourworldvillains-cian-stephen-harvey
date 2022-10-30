@@ -10,15 +10,16 @@ Land of the free and the home of the brave.
 ---- Venuzuela [HMN]
 Cool Flag
 
+
 ---- Colombia 
 Bogota, 
 
-<<<<<<< HEAD
 ---- Canada [HMN]
 Nice people
 
-=======
->>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
+---- Argentina [HMN]
+Lionel Messi
+
 ---- Mexico [SK]
 Mexico City
 >>>>>>> master
@@ -32,8 +33,10 @@ Not having the best time at the moment
 
 ---- Switzerland [HMN]
 skiing resorts, lakes, chocolate, and cheese.
-=======
-<<<<<<< HEAD
+
+---- Italy [HMN]
+bappa de boopey
+
 Greece [SK]
 Athens, Greece
 
@@ -73,6 +76,9 @@ not be confused with slovakia
 ----- Egypt [pl]
 Home of the Pyramids
 
+---- South Africa [HMN]
+Cape Town,
+
 ----- Kenya [SK]
 Nairobi, Kenya
 
@@ -88,16 +94,17 @@ Abuja, 175 million people
 ---- Madagascar [HMN]
 I like to move it move it
 
+---- Angola [HMN]
+Official languange is portuguese
+
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
 
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Steven
+----- North Korea [HMN]
+Not the friendliest bunch
+
 ---- Japan [HMN]
 anime central
 
@@ -138,19 +145,11 @@ made of 900 small islands
 ----- New Zealand [HMN]
 Polite Australians
 
-<<<<<<< HEAD
+---- Micronesia [HMN]
+Palikir,
 
 ------ Papa New Guinea [HMN]
 3rd largest rainforest in the world
 
 ------ Fiji [HMN]
 Made of over 300 isalnds
-+-
-=======
-<<<<<<< HEAD
------- Papa New Guinea [HMN]
-=======
------- Papa New Guinea [HMN]
-
-
->>>>>>> master
