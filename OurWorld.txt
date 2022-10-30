@@ -17,9 +17,23 @@ Bogota,
 ---- Canada [HMN]
 Nice people
 
+<<<<<<< HEAD
 ---- Argentina [HMN]
 Lionel Messi
 
+=======
+<<<<<<< HEAD
+=======
+---- Brazil [SK]
+Big Jesus statue.
+
+---- Hawaii [SK]
+Aloha.
+
+>>>>>>> Steven
+=======
+>>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
+>>>>>>> master
 ---- Mexico [SK]
 Mexico City
 >>>>>>> master
@@ -108,11 +122,14 @@ Not the friendliest bunch
 ---- Japan [HMN]
 anime central
 
+<<<<<<< HEAD
+=======
 ---- Indonesia [HMN]
 Jakarta, 17,508 islands in total
 
 ---- South Korea [HMN]
 Gangnam Style
+>>>>>>> df077d792e06287d749f9c4d0868f37b8841478a
 
 ----- Mongolia [HMN]
 2nd Lowest population density in the world
@@ -121,16 +138,14 @@ Gangnam Style
 =======
 ----- Iraq [SK]
 
-
 ----- Pakistan [SK]
 Honestly, don't know much about Pakistan
 
 ----- India [SK]
 Good food
 
-
------ South Korea [SK]
-Kimchi
+----- North Korea [SK]
+Great leader Kim-Jong-Un is all powerful, (Please let my family go).
 
 >>>>>>> master
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
@@ -145,11 +160,36 @@ made of 900 small islands
 ----- New Zealand [HMN]
 Polite Australians
 
+<<<<<<< HEAD
 ---- Micronesia [HMN]
 Palikir,
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 
 ------ Papa New Guinea [HMN]
 3rd largest rainforest in the world
 
 ------ Fiji [HMN]
 Made of over 300 isalnds
+<<<<<<< HEAD
+=======
++-
+=======
+>>>>>>> df077d792e06287d749f9c4d0868f37b8841478a
+<<<<<<< HEAD
+------ Papa New Guinea [HMN]
+
+------ Australia [SK]
+Nope. 
+
+------ Tahiti [SK]
+I have a plan, Arthur.
+
+=======
+
+>>>>>>> master
+>>>>>>> df077d792e06287d749f9c4d0868f37b8841478a
+>>>>>>> master
