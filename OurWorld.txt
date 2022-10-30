@@ -51,6 +51,12 @@ Apparently they really like coffee there.
 ------ Turkey [SK]
 Not the animal.
 
+-----Germany [HMN]
+They make great cars
+
+---- Slovenia [HMN]
+not be confused with slovakia
+
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
@@ -61,22 +67,6 @@ Nairobi, Kenya
 
 ----- Morocco [SK]
 Chefchaouen, Morocco
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Steven
-=======
------Germany [HMN]
-They make great cars
-
----- Slovenia [HMN]
-not be confused with slovakia
-
-+++++++++++++++++++++     Africa  ++++++++++++++++++++
------ Egypt [pl]
-Home of the Pyramids
-<<<<<<< HEAD
 
 ----- Algeria [HMN]
 Largest country on the continent
@@ -84,14 +74,7 @@ Largest country on the continent
 ---- Madagascar [HMN]
 I like to move it move it
 
-=======
->>>>>>> master
->>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
-<<<<<<< HEAD
-=======
 
->>>>>>> Stashed changes
->>>>>>> Steven
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
@@ -106,15 +89,9 @@ anime central
 
 ----- Mongolia [HMN]
 2nd Lowest population density in the world
-<<<<<<< HEAD
-=======
 
 ----- Iraq [SK]
-Iraq. 
-<<<<<<< HEAD
->>>>>>> Steven
-+++++++++++++++++++ Rest of the World ++++++++++++++++
-=======
+
 
 ----- Pakistan [SK]
 Honestly, don't know much about Pakistan
@@ -131,11 +108,6 @@ Kimchi
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Steven
 
 ----- New Zealand [HMN]
 Polite Australians
@@ -144,4 +116,5 @@ Polite Australians
 ------ Papa New Guinea [HMN]
 =======
 ------ Papa New Guinea [HMN]
+
 
