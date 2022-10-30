@@ -105,9 +105,8 @@ anime central
 
 ----- Iraq
 Iraq. 
->>>>>>> Stashed changes
 >>>>>>> Steven
-+++++++++++++++++++ Rest of the Wrold ++++++++++++++++
++++++++++++++++++++ Rest of the World ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
@@ -128,7 +127,4 @@ Polite Australians
 <<<<<<< HEAD
 ------ Vatican City [SK]
 Yes, this is actually classed as its own country, the smallest country in the world in fact.
->>>>>>> Stashed changes
->>>>>>> Steven
-=======
->>>>>>> Steven
+
