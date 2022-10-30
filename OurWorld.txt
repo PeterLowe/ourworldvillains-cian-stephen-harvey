@@ -10,6 +10,9 @@ Land of the free and the home of the brave.
 ---- Venuzuela [HMN]
 Cool Flag
 
+---- Colombia 
+Bogota, 
+
 <<<<<<< HEAD
 ---- Canada [HMN]
 Nice people
@@ -32,6 +35,13 @@ Mexico City
 ---- France [pl]
 Ooh la la! 
 
+<<<<<<< HEAD
+_____ Ukraine [HMN]
+Not having the best time at the moment
+
+---- Switzerland [HMN]
+skiing resorts, lakes, chocolate, and cheese.
+=======
 <<<<<<< HEAD
 Greece [SK]
 Athens, Greece
@@ -59,6 +69,13 @@ Apparently they really like coffee there.
 
 ------ Turkey [SK]
 Not the animal.
+>>>>>>> master
+
+-----Germany [HMN]
+They make great cars
+
+---- Slovenia [HMN]
+not be confused with slovakia
 
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
@@ -70,37 +87,17 @@ Nairobi, Kenya
 
 ----- Morocco [SK]
 Chefchaouen, Morocco
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Steven
-=======
------Germany [HMN]
-They make great cars
-
----- Slovenia [HMN]
-not be confused with slovakia
-
-+++++++++++++++++++++     Africa  ++++++++++++++++++++
------ Egypt [pl]
-Home of the Pyramids
-<<<<<<< HEAD
 
 ----- Algeria [HMN]
 Largest country on the continent
 
+---- Nigeria [HMN]
+Abuja, 175 million people
+
 ---- Madagascar [HMN]
 I like to move it move it
 
-=======
->>>>>>> master
->>>>>>> 13ea4c9d9c9cba4a70743cf6e1a04108ab508250
-<<<<<<< HEAD
-=======
 
->>>>>>> Stashed changes
->>>>>>> Steven
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
@@ -113,20 +110,21 @@ Great Wall of China seen from space
 ---- Japan [HMN]
 anime central
 
----- Indonesia [SK]
-Dont't know much, but Bali is supposed to be a really nice place.
+<<<<<<< HEAD
+=======
+---- Indonesia [HMN]
+Jakarta, 17,508 islands in total
+
+---- South Korea [HMN]
+Gangnam Style
+>>>>>>> df077d792e06287d749f9c4d0868f37b8841478a
 
 ----- Mongolia [HMN]
 2nd Lowest population density in the world
-<<<<<<< HEAD
-=======
 
------ Iraq [SK]
-Iraq. 
 <<<<<<< HEAD
->>>>>>> Steven
-+++++++++++++++++++ Rest of the World ++++++++++++++++
 =======
+----- Iraq [SK]
 
 ----- Pakistan [SK]
 Honestly, don't know much about Pakistan
@@ -134,30 +132,35 @@ Honestly, don't know much about Pakistan
 ----- India [SK]
 Good food
 
+----- North Korea [SK]
+Great leader Kim-Jong-Un is all powerful, (Please let my family go).
 
------ South Korea [SK]
-Kimchi
-
+>>>>>>> master
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 >>>>>>> Steven
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Steven
+
+---- Solomon-Islands [HMN]
+made of 900 small islands
 
 ----- New Zealand [HMN]
 Polite Australians
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+
 ------ Papa New Guinea [HMN]
+3rd largest rainforest in the world
+
+------ Fiji [HMN]
+Made of over 300 isalnds
++-
 =======
-=======
->>>>>>> Steven
+>>>>>>> df077d792e06287d749f9c4d0868f37b8841478a
+<<<<<<< HEAD
 ------ Papa New Guinea [HMN]
 
 ------ Australia [SK]
@@ -166,3 +169,7 @@ Nope.
 ------ Tahiti [SK]
 I have a plan, Arthur.
 
+=======
+
+>>>>>>> master
+>>>>>>> df077d792e06287d749f9c4d0868f37b8841478a
