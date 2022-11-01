@@ -37,6 +37,9 @@ Aloha.
 ---- Mexico [SK]
 Mexico City
 >>>>>>> master
+
+---- Chile [SK]
+Not chilly, or chilli.
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -143,9 +146,6 @@ Honestly, don't know much about Pakistan
 
 ----- India [SK]
 Good food
-
------ North Korea [SK]
-Great leader Kim-Jong-Un is all powerful, (Please let my family go).
 
 >>>>>>> master
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
